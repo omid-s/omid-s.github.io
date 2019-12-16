@@ -1,6 +1,6 @@
 title: This Is Me :) 
 logo: https://avatars1.githubusercontent.com/u/15234532?s=460&v=4
 description: I am me ... follow the dots and you will find me :D
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
