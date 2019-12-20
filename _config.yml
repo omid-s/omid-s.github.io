@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Omid Setayeshfar"
   avatar           : "assets/img/me.png"
-  bio              : "PhD Canddate of Computer Science, Crazy"
+  bio              : "PhD Canddate of Computer Science,<br/> also Hit the road Jack kinda guy! Engineer, Researcher, Happy, Curious, Crazy, ...."
   location         : "Athens, GA"
-  employer         :
+  employer         : University of Georgia
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gDwPmR0AAAAJ&hl=en"
   email            :  "omid.s@uga.edu"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/omidsetayeshfar/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
