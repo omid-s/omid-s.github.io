@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Omid Setayeshfar"
-  avatar           : "assets/img/me.png"
+  avatar           : "/assets/img/me.png"
   bio              : "PhD Canddate of Computer Science,<br/> also Hit the road Jack kinda guy! Engineer, Researcher, Happy, Curious, Crazy, ...."
   location         : "Athens, GA"
   employer         : University of Georgia
