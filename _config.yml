@@ -190,6 +190,9 @@ collections:
   patents:
     output: true
     permalink: /:collection/:path/
+  posters:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -239,6 +242,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _posters
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  
   # _portfolio
   - scope:
       path: ""
