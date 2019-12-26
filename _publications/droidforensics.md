@@ -6,7 +6,7 @@ excerpt: 'This paper is about android forensics.'
 date: 2017-04-06
 venue: 'AsiaCCS'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Xingzi Yuan, *Omid Setayeshfar*, Hongfei Yan, Pranav Panage, Xuetao Wei, Kyu Hyung Lee'
+citation: 'Xingzi Yuan, Omid Setayeshfar, Hongfei Yan, Pranav Panage, Xuetao Wei, Kyu Hyung Lee'
 ---
 
 In this paper we propose an auditing system for android devices which imposes minimal overhead, and produces queryable logs. 
