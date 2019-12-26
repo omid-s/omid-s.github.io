@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/graalf
 excerpt: 'In this paper we introduce an easy to use, flexible tool for forensics analysis'
 date: 2019-09-03
-venue: 'Journal 1'
+venue: 'arXiv preprint'
 paperurl: 'https://arxiv.org/abs/1909.00902'
 citation: 'Setayeshfar, O., Adkins, C., Jones, M., Lee, K.H. and Doshi, P., 2019. GrAALF: Supporting Graphical Analysis of Audit Logs for Forensics. arXiv preprint arXiv:1909.00902.'
 ---
