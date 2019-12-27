@@ -33,3 +33,9 @@ author_profile: true
 {% for post in site.patents reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Posters
+
+{% for post in site.posters reversed %}
+  {% include archive-single.html %}
+{% endfor %}
