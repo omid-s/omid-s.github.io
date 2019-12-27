@@ -14,9 +14,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Georgia, 2020 (expected)
+* B.S. in Computer Engineering, Shahid Chamran University, 2012
+
+  {%comment%}
 
 Work experience
 ======
@@ -38,6 +39,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+{%endcomment%}
 
 Publications
 ======
@@ -45,17 +47,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Patents
 ======
+  <ul>{% for post in site.patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  {%comment%}
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  {%endcomment%}
   
+  {%comment%}
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  {%endcomment%}
   
 Service and leadership
 ======
