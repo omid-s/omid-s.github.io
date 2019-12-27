@@ -19,6 +19,7 @@ I am a PhD. Candidate of Computer Science at the [University of Georgia](cs.uga.
 ## Research Interests 
 
 * Software Security
+  * Software Forensics
   * Log analysis
   * Fine grain software logging
   * Internet of Things 
@@ -30,4 +31,12 @@ I am a PhD. Candidate of Computer Science at the [University of Georgia](cs.uga.
 
 ## Other Interests 
 
-You might want to see my [Fun Zone]({{base_path}}/fun/)
+You might want to see my [Fun Zone]({{base_path}}/fun/) but here are SOME of things I'm interested in : 
+
+* Cars 
+* Space 
+* Electronics 
+* Nature 
+* Swiming 
+* Entrepreneurship
+* Economics 
