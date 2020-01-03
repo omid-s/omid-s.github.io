@@ -1,5 +1,5 @@
 ---
-title: "DroidForensics: Accurate Reconstruction of Android Attacks via Multi-layer Forensic Logging"
+title: "FastPP: Accelerating Pre-Processing for Real-time and Large Scale Log Analysis"
 collection: posters
 permalink: /posters/fastpp
 excerpt: 'This poster is about system log ingestion.'
