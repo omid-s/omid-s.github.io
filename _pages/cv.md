@@ -69,4 +69,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Serving as Computer Science Graduate Student Association President,  _since 2018_
+* Served as Grad. Student representative at University of Georgia Graduate Studies Board, _2019_ 
+* Served as Sub-Reviewer IEEE Cloud 2020 
+* Served as Sub-Reviewer IEEE Cloud 2019
+
