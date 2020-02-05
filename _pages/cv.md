@@ -17,6 +17,24 @@ Education
 * Ph.D in Computer Science, University of Georgia, 2020 (expected)
 * B.S. in Computer Engineering, Shahid Chamran University, 2012
 
+
+Skills 
+======
+* Data Science 
+  * Data Base: SQL Server, Postgresql, MySql, Neo4J
+  * Pre-processing: OpenCV
+  * Deep Learning: Keras, Tensorflow 
+  * Machine Learning: scikit-learn, MLLib
+  * Distributed Computing: Apache Spark 
+  * Modeling: Networkx, Word2Vec, ...
+* Programming Languages
+  * Python, C#, Java, C
+  * Mobile: objective-c, java
+  * Web: ASP.Net, AJAX, JavaScript, Servelets
+* Cyber Security
+  * Automated Program Analysis
+  * System Forensics Analysis 
+  * Provenance Graphs
   {%comment%}
 
 Work experience
@@ -70,7 +88,8 @@ Teaching
 Service and leadership
 ======
 * Serving as Computer Science Graduate Student Association President,  _since 2018_
-* Served as Grad. Student representative at University of Georgia Graduate Studies Board, _2019_ 
+* Served as Grad. Student representative at University of Georgia Graduate Studies Expansion Board, _2019_ 
 * Served as Sub-Reviewer IEEE Cloud 2020 
 * Served as Sub-Reviewer IEEE Cloud 2019
+
 
