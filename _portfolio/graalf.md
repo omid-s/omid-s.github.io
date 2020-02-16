@@ -1,6 +1,7 @@
 ---
 title: "GrAALF"
 excerpt: "GrAALF: Supporting Graphical Analysis of Audit Logs for Forensics<br/><img src='/images/projects/graalf.png'>"
+year: 2019
 collection: portfolio
 ---
 
