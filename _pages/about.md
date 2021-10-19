@@ -12,8 +12,8 @@ redirect_from:
 
 
 ## About Me 
-
-I am a PhD. Candidate of Computer Science at the [University of Georgia](cs.uga.edu) where I work with [Dr. Kyu H. Lee](http://cobweb.cs.uga.edu/~kyuhlee/). I have worked as Project Manager, SW Engineer for several years before coming to UGA and since I have worked at a couple of local companies and at NEC Labs America as a research assistant. 
+I am an incoming Research Scientist at Facebook where I will work in the Systems and Infrastructure organizations. 
+I received my Pd.D. of Computer Science from [University of Georgia](cs.uga.edu) where I worked with [Dr. Kyu H. Lee](http://cobweb.cs.uga.edu/~kyuhlee/). I have worked as Project Manager, SW Engineer for several years before coming to UGA and since I have worked at a couple of local companies and at NEC Labs America as a research assistant. 
 
 
 ## Research Interests 

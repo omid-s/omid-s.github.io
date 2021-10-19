@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Omid Setayeshfar"
+title                    : "Omid Setayeshfar, Ph.D"
 title_separator          : "-"
 name                     : &name Omid Setayeshfar"
-description              : &description "PhD Candidate @ University of Georgia, Department of Computer Science"
+description              : &description "Incoming Research Scientist @Facebook"
 url                      : https://omid-s.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omid-s/omid-s.github.io"
